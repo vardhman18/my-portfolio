@@ -81,7 +81,7 @@ const Image = styled.img`
     background-color: #fff;
     border-radius: 10px; // Changed from 50% (circle) to 10px (square with rounded corners)
     margin-top: 4px;
-    border: 2px solidhsl(246, 55.70%, 53.90%); // Optional: matches the logo's red border
+    border: 2px solidhsl(246, 55.70%, 53.90%); 
     @media only screen and (max-width: 768px){
         height: 45px;
         width: 45px;
