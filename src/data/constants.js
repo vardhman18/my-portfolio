@@ -7,14 +7,15 @@ export const Bio = {
     "Data Science Enthusiast",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+"I believe in learning by doing and growing through challenges. With a foundation built on dedication and versatility, I’m always ready to contribute my skills, take initiative, and turn ideas into impactful outcomes.",
+
   github: "https://github.com/vardhman18",
   resume:
 "https://drive.google.com/file/d/1PFYDqJak60JCucy9sMzJJe1DM7jIEL81/view?usp=sharing",
 linkedin: "https://www.linkedin.com/in/vardhman-jain-35a3b829b",
   twitter: "https://x.com/Vardhmanjain_18",
   insta: "https://www.instagram.com/vardhman_1548/",
-  discord:"https://discord.com/channels/@me",
+  discord:"https://discord.com/channels/@me/1330085994720133122",
 };
 
 
