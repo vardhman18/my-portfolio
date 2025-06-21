@@ -262,45 +262,74 @@ export const projects = [
   {
     id: 0,
     title: "Tic-Tac-Toe",
-    date: "",
+    date: "May 2025",
     description:
-      "",
+      "A Tic-Tac-Toe web app built with React, Vite, and Tailwind CSS. It features a perfect AI using the Minimax algorithm, light/dark themes, sound effects, a scoreboard, and celebration animations. Users can play against the AI or with a friend. Fully responsive and deployed using Vercel.",
     image:
-      "",
+      "https://i.postimg.cc/8Pc3kW3Q/tictac.png",
     tags: [
-      "React Js",
+      "React Js","Tailwind CSS", "JavaScript", "HTML","Vercel","Vite"
        ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/vardhman18/tic-tac-toe.git",
+    webapp: "https://tic-tac-toe-ten-pi-82.vercel.app/",
   },
   {
     id: 1,
-    title: "BudgetBuddy",
-    date: "",
+    title: "Personal Portfolio",
+    date: "June 2025",
     description:
-      "Developed.",
+      "A modern portfolio website built with React, showcasing projects, skills, and social links. It features smooth animations, responsive design, and reusable components. Easily customizable with your personal details, GitHub stats, and resume. Perfect for developers looking to create an impressive online presence and highlight their professional profile.",
     image:
       "",
-    tags: ["React Js", ],
+    tags: ["React Js","HTML","CSS3", "JavaScript", "Vite",  "Vercel"],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/vardhman18/my-portfolio.git",
+    webapp: "https://my-portfolio-eta-one-39.vercel.app/",
     
   },
   {
-    id: 3,
+    id: 2,
     title: "Iris Flower Classification",
-    date: "June `2025",
+    date: "May 2025",
     description:
       "A responsive Streamlit web app that predicts the species of an Iris flower using machine learning. Users input sepal and petal measurements to get predictions from both Random Forest and SVM models. The app displays results instantly along with model accuracy, offering an intuitive interface for exploring classification with the classic Iris dataset.",
     image:
     "",
-    tags: ["Python","Pandas","Streamlit", "Scikit Learn", "Machine Learning"],
+    tags: ["Python","Pandas","Numpy","Streamlit", "Scikit Learn", "Machine Learning"],
     category: "machine learning",
     github: "https://github.com/vardhman18/Iris-classification-.git",
     webapp: "https://dofyfb42xappsnsefeuzrmb.streamlit.app/",
   },
+   {
+    id: 3,
+    title: "Unemployment Analysis",
+    date: "June 2025",
+    description:
+    "An interactive Python app for Unemployment Analysis using Streamlit. It visualizes unemployment trends across Indian regions, shows the impact of COVID-19, and includes animated choropleth maps and bar charts. It also features forecasting models like Prophet and Random Forest to predict future unemployment rates.",
+    image:
+    "",
+    tags: ["Python","Pandas","Streamlit", "Scikit Learn", "Matplotlib"],
+    category: "machine learning",
+    github: "https://github.com/vardhman18/unemployment-analysis.git",
+    webapp: "https://unemployment-analysis-6an.streamlit.app/",
+  },
+
+
+ {
+    id: 4,
+    title: "Car Price Prediction",
+    date: "June 2025",
+    description:
+    "A car price prediction web app built using Python and Streamlit. It uses a machine learning model (Random Forest) trained on real-world car data to estimate resale value. Users input details like price, fuel type, kilometers driven, etc., and the app predicts the car’s expected selling price instantly.",
+    image:
+    "",
+    tags: ["Python","Pandas","Numpy","Streamlit", "Scikit Learn", "Machine Learning"],
+    category: "machine learning",
+    github: "https://github.com/vardhman18/Iris-classification-.git",
+    webapp: "https://dofyfb42xappsnsefeuzrmb.streamlit.app/",
+  },
+
 
   
 ];
