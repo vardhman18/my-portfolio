@@ -289,17 +289,17 @@ export const projects = [
     
   },
   {
-    id: 5,
-    title: "Car Sales Prediction",
-    date: "",
+    id: 3,
+    title: "Iris Flower Classification",
+    date: "June `2025",
     description:
-      "",
+      "A responsive Streamlit web app that predicts the species of an Iris flower using machine learning. Users input sepal and petal measurements to get predictions from both Random Forest and SVM models. The app displays results instantly along with model accuracy, offering an intuitive interface for exploring classification with the classic Iris dataset.",
     image:
     "",
-    tags: ["Python", ],
+    tags: ["Python","Pandas","Streamlit", "Scikit Learn", "Machine Learning"],
     category: "machine learning",
-    github: "",
-    webapp: "",
+    github: "https://github.com/vardhman18/Iris-classification-.git",
+    webapp: "https://dofyfb42xappsnsefeuzrmb.streamlit.app/",
   },
 
   
