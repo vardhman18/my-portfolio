@@ -1,3 +1,12 @@
+import tictacImg from "../images/tictac.png";
+
+
+
+
+
+
+
+
 export const Bio = {
   name: "Vardhman Jain",
   roles: [
@@ -265,8 +274,7 @@ export const projects = [
     date: "May 2025",
     description:
       "A Tic-Tac-Toe web app built with React, Vite, and Tailwind CSS. It features a perfect AI using the Minimax algorithm, light/dark themes, sound effects, a scoreboard, and celebration animations. Users can play against the AI or with a friend. Fully responsive and deployed using Vercel.",
-    image:
-      "https://i.postimg.cc/8Pc3kW3Q/tictac.png",
+    image: tictacImg,
     tags: [
       "React Js","Tailwind CSS", "JavaScript", "HTML","Vercel","Vite"
        ],
