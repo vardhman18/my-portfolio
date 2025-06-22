@@ -1,10 +1,8 @@
 import tictacImg from "../images/tictac.png";
-
-
-
-
-
-
+import portfolioImg from "../images/portfolio.png";
+import irisImg from "../images/iris.png";
+import unemploymentImg from "../images/unemployment.png";
+import carpriceImg from "../images/carprice.png";
 
 
 export const Bio = {
@@ -288,8 +286,7 @@ export const projects = [
     date: "June 2025",
     description:
       "A modern portfolio website built with React, showcasing projects, skills, and social links. It features smooth animations, responsive design, and reusable components. Easily customizable with your personal details, GitHub stats, and resume. Perfect for developers looking to create an impressive online presence and highlight their professional profile.",
-    image:
-      "https://i.postimg.cc/8CK8bSj9/portfolio.png",
+    image: portfolioImg,
     tags: ["React Js","HTML","CSS3", "JavaScript", "Vite",  "Vercel"],
     category: "web app",
     github: "https://github.com/vardhman18/my-portfolio.git",
@@ -302,8 +299,7 @@ export const projects = [
     date: "May 2025",
     description:
       "A responsive Streamlit web app that predicts the species of an Iris flower using machine learning. Users input sepal and petal measurements to get predictions from both Random Forest and SVM models. The app displays results instantly along with model accuracy, offering an intuitive interface for exploring classification with the classic Iris dataset.",
-    image:
-    "https://i.postimg.cc/hPHz3w35/iris.png",
+    image: irisImg,
     tags: ["Python","Pandas","Numpy","Streamlit", "Scikit Learn", "Machine Learning"],
     category: "machine learning",
     github: "https://github.com/vardhman18/Iris-classification-.git",
@@ -316,7 +312,7 @@ export const projects = [
     description:
     "An interactive Python app for Unemployment Analysis using Streamlit. It visualizes unemployment trends across Indian regions, shows the impact of COVID-19, and includes animated choropleth maps and bar charts. It also features forecasting models like Prophet and Random Forest to predict future unemployment rates.",
     image:
-    "https://i.postimg.cc/Z5nmpKck/unemployment.png",
+    unemploymentImg,
     tags: ["Python","Pandas","Streamlit", "Scikit Learn", "Matplotlib"],
     category: "machine learning",
     github: "https://github.com/vardhman18/unemployment-analysis.git",
@@ -331,7 +327,7 @@ export const projects = [
     description:
     "A car price prediction web app built using Python and Streamlit. It uses a machine learning model (Random Forest) trained on real-world car data to estimate resale value. Users input details like price, fuel type, kilometers driven, etc., and the app predicts the car’s expected selling price instantly.",
     image:
-    "https://i.postimg.cc/MZfdMkRs/carprice.png",
+    carpriceImg,
     tags: ["Python","Pandas","Numpy","Streamlit", "Scikit Learn", "Machine Learning"],
     category: "machine learning",
     github: "https://github.com/vardhman18/Iris-classification-.git",
