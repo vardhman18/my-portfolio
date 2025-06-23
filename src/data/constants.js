@@ -331,7 +331,7 @@ export const projects = [
     tags: ["Python","Pandas","Numpy","Streamlit", "Scikit Learn", "Machine Learning"],
     category: "machine learning",
     github: "https://github.com/vardhman18/Iris-classification-.git",
-    webapp: "https://dofyfb42xappsnsefeuzrmb.streamlit.app/",
+    webapp: "https://car-price-analysis-vj.streamlit.app/",
   },
 
 
